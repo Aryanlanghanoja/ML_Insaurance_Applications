@@ -1,0 +1,10 @@
+Logistic Regression
+K-Nearest Neighbors (KNN)
+Support Vector Machine (SVM)
+Decision Tree Classifier
+Random Forest Classifier
+Gradient Boosting Classifier
+XGBoost Classifier
+LightGBM Classifier
+Gaussian Naive Bayes Multinomial Naive Bayes
+Bernoulli Naive Bayes

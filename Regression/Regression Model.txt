@@ -1,0 +1,15 @@
+Linear Regression Done
+Ridge Regression Done
+Lasso Regression Done
+Elastic Net Regression
+Polynomial Regression
+Support Vector Regression (SVR) - Takes Too Much time
+Decision Tree Regression - Done
+Random Forest Regression - Done
+K-Nearest Neighbors (KNN) Regression Done
+Gradient Boosting Regression  Done
+XGBoost Regression
+LightGBM Regression
+CatBoost Regression
+Bayesian Regression
+Stepwise Regression
