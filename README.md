@@ -1,1 +1,1 @@
-# ML Insaurance Applications
+# Applications of Machine Learning In Insaurance Industry
